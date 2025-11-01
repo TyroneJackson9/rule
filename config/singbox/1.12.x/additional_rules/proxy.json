@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "hacg.me",
+        "reimu.net",
+        "hxcy.top",
+        "bulianglin.com",
+        "zodacc.com",
+        "zodgame.net"
+      ]
+    }
+  ]
+}
