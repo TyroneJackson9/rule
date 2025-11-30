@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "vod0393-aliyun18-vip-lixian.mypikpak.com",
+        "vod0394-aliyun18-vip-lixian.mypikpak.com",
+        "vod0395-aliyun18-vip-lixian.mypikpak.com",
+        "api-drive.mypikpak.com"
+      ],
+      "domain_keyword": [
+        "dl-a10b-",
+        "dl-z01a-",
+        "dl-b07-"
+      ]
+    }
+  ]
+}
